@@ -1,0 +1,13 @@
+.classpath
+.settings/
+.loadpath
+.buildpath
+*.bin
+.idea/
+/build
+build/
+*/build/
+*/*/build/
+*/*/*/build/
+.DS_Store
+*/target
